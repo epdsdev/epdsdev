@@ -1,9 +1,6 @@
-# 👋 Hello, I'm Eliseu Silva
+# 👋 Hi, I'm Eliseu Silva
 
-I'm a dedicated developer currently studying **Computer Science**.  
-I enjoy building creative, organized, and useful projects using modern tools and clean code.
+Developer focused on clean code and practical projects.  
+Working with Python, Java, HTML/CSS and learning JavaScript.  
 
-I'm a passionate developer focused on creating useful and well-structured applications.  
-I enjoy learning new technologies and working on creative and efficient solutions.
-
-
+Always building, always learning.
